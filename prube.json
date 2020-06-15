@@ -1,0 +1,204 @@
+{
+  "name": "Crimes",
+  "children": [
+    {
+      "count": 153,
+      "name": "Privados",
+      "children": [
+        {
+          "count": 8,
+          "name": 2015,
+          "children": [
+            {
+              "name": "Abuso sexual",
+              "value": 188
+            },
+            {
+              "name": "Acoso sexual",
+              "value": 8
+            },
+            {
+              "name": "Actos sexuales violencia",
+              "value": 2
+            },
+            {
+              "name": "Negligencia y abandono",
+              "value": 615
+            },
+            {
+              "name": "Sin información",
+              "value": 0
+            },
+            {
+              "name": "Violencia física",
+              "value": 319
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 26
+            },
+            {
+              "name": "Violación",
+              "value": 12
+            }
+          ]
+        },
+        {
+          "count": 8,
+          "name": 2016,
+          "children": [
+            {
+              "name": "Abuso sexual",
+              "value": 210
+            },
+            {
+              "name": "Acoso sexual",
+              "value": 12
+            },
+            {
+              "name": "Actos sexuales violencia",
+              "value": 2
+            },
+            {
+              "name": "Negligencia y abandono",
+              "value": 743
+            },
+            {
+              "name": "Sin información",
+              "value": 12
+            },
+            {
+              "name": "Violencia física",
+              "value": 386
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 32
+            },
+            {
+              "name": "Violación",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "count": 8,
+          "name": 2017,
+          "children": [
+            {
+              "name": "Abuso sexual",
+              "value": 1
+            },
+            {
+              "name": "Acoso sexual",
+              "value": 0
+            },
+            {
+              "name": "Actos sexuales violencia",
+              "value": 0
+            },
+            {
+              "name": "Negligencia y abandono ",
+              "value": 254
+            },
+            {
+              "name": "Sin información",
+              "value": 263
+            },
+            {
+              "name": "Violencia física",
+              "value": 390
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 40
+            },
+            {
+              "name": "Violación",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "count": 8,
+          "name": 2018,
+          "children": [
+            {
+              "name": "Abuso sexual",
+              "value": 219
+            },
+            {
+              "name": "Acoso sexual",
+              "value": 18
+            },
+            {
+              "name": "Actos sexuales violencia",
+              "value": 2
+            },
+            {
+              "name": "Negligencia y abandono ",
+              "value": 127
+            },
+            {
+              "name": "Sin información",
+              "value": 2411
+            },
+            {
+              "name": "Violencia física",
+              "value": 335
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 32
+            },
+            {
+              "name": "Violación",
+              "value": 41
+            }
+          ]
+        },
+        {
+          "count": 8,
+          "name": 2019,
+          "children": [
+            {
+              "name": "Abuso sexual",
+              "value": 100
+            },
+            {
+              "name": "Acoso sexual",
+              "value": 6
+            },
+            {
+              "name": "Actos sexuales violencia",
+              "value": 1
+            },
+            {
+              "name": "Negligencia y abandono ",
+              "value": 82
+            },
+            {
+              "name": "Sin información",
+              "value": 0
+            },
+            {
+              "name": "Violencia física",
+              "value": 129
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 20
+            },
+            {
+              "name": "Violación",
+              "value": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 204,
+      "name": "Públicos",
+
+}
