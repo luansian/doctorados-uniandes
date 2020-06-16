@@ -1,0 +1,277 @@
+{
+  "name": "Crimes",
+  "children": [
+    {
+      "count": 183,
+      "name": "Agronomía y veterinaria - 183",
+      "children": [
+        {
+          "count": 37,
+          "name": "Graduados - 37",
+          "children": [
+            {
+              "name": "Hombres - 21",
+              "value": 21
+            },
+            {
+              "name": "Mujeres - 16",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "count": 146,
+          "name": "Matriculados - 146",
+          "children": [
+            {
+              "name": "Hombres - 86",
+              "value": 86
+            },
+            {
+              "name": "Mujeres - 60",
+              "value": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 89,
+      "name": "Bellas artes - 89",
+      "children": [
+        {
+          "count": 12,
+          "name": "Graduados - 12",
+          "children": [
+            {
+              "name": "Hombres - 8",
+              "value": 8
+            },
+            {
+              "name": "Mujeres - 4",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "count": 77,
+          "name": "Matriculados - 77",
+          "children": [
+            {
+              "name": "Hombres - 58",
+              "value": 58
+            },
+            {
+              "name": "Mujeres - 19",
+              "value": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 1709,
+      "name": "Ciencias sociales y humanas - 1709",
+      "children": [
+        {
+          "count": 197,
+          "name": "Graduados - 197",
+          "children": [
+            {
+              "name": "Hombres - 121",
+              "value": 121
+            },
+            {
+              "name": "Mujeres - 76",
+              "value": 76
+            }
+          ]
+        },
+        {
+          "count": 1512,
+          "name": "Matriculados - 1512",
+          "children": [
+            {
+              "name": "Hombres - 904",
+              "value": 904
+            },
+            {
+              "name": "Mujeres - 608",
+              "value": 608
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 360,
+      "name": "Economía, administración, contaduría - 360",
+      "children": [
+        {
+          "count": 48,
+          "name": "Graduados - 48",
+          "children": [
+            {
+              "name": "Hombres - 32",
+              "value": 32
+            },
+            {
+              "name": "Mujeres - 16",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "count": 321,
+          "name": "Matriculados - 321",
+          "children": [
+            {
+              "name": "Hombres - 213",
+              "value": 213
+            },
+            {
+              "name": "Mujeres - 108",
+              "value": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 1703,
+      "name": "Ingeniería, arquitectura, urbanismo - 1703",
+      "children": [
+        {
+          "count": 204,
+          "name": "Graduados - 204",
+          "children": [
+            {
+              "name": "Hombres - 148",
+              "value": 148
+            },
+            {
+              "name": "Mujeres - 56",
+              "value": 56
+            }
+          ]
+        },
+        {
+          "count": 1499,
+          "name": "Matriculados - 1499",
+          "children": [
+            {
+              "name": "Hombres - 1042",
+              "value": 1042
+            },
+            {
+              "name": "Mujeres - 457",
+              "value": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 1130,
+      "name": "Matemáticas y ciencias naturales - 1130",
+      "children": [
+        {
+          "count": 164,
+          "name": "Graduados - 164",
+          "children": [
+            {
+              "name": "Hombres - 102",
+              "value": 102
+            },
+            {
+              "name": "Mujeres - 62",
+              "value": 62
+            }
+          ]
+        },
+        {
+          "count": 966,
+          "name": "Matriculados - 966",
+          "children": [
+            {
+              "name": "Hombres - 572",
+              "value": 572
+            },
+            {
+              "name": "Mujeres - 394",
+              "value": 394
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 517,
+      "name": "Ciencias de la Salud - 517",
+      "children": [
+        {
+          "count": 49,
+          "name": "Graduados - 49",
+          "children": [
+            {
+              "name": "Hombres - 18",
+              "value": 18
+            },
+            {
+              "name": "Mujeres - 31",
+              "value": 31
+            }
+          ]
+        },
+        {
+          "count": 468,
+          "name": "Matriculados - 468",
+          "children": [
+            {
+              "name": "Hombres - 203",
+              "value": 203
+            },
+            {
+              "name": "Mujeres - 265",
+              "value": 265
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 958,
+      "name": "Ciencias de la Educación - 958",
+      "children": [
+        {
+          "count": 87,
+          "name": "Graduados - 87",
+          "children": [
+            {
+              "name": "Hombres - 45",
+              "value": 45
+            },
+            {
+              "name": "Mujeres - 42",
+              "value": 42
+            }
+          ]
+        },
+        {
+          "count": 871,
+          "name": "Matriculados - 871",
+          "children": [
+            {
+              "name": "Hombres - 435",
+              "value": 435
+            },
+            {
+              "name": "Mujeres - 436",
+              "value": 436
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
