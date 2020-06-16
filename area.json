@@ -1,0 +1,345 @@
+{
+  "name": "Crimes",
+  "children": [
+    {
+      "count": 183,
+      "name": "Agronomía y veterinaria",
+      "children": [
+        {
+          "count": 37,
+          "name": "Graduados - 37",
+          "children": [
+            {
+              "name": "Hombres - 21",
+              "value": 21
+            },
+            {
+              "name": "Mujeres - 16",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "count": 146,
+          "name": "Matriculados - 146",
+          "children": [
+            {
+              "name": "Hombres - 86",
+              "value": 86
+            },
+            {
+              "name": "Mujeres - 60",
+              "value": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 183,
+      "name": "Agronomía y veterinaria",
+      "children": [
+        {
+          "count": 37,
+          "name": "Graduados - 37",
+          "children": [
+            {
+              "name": "Hombres - 21",
+              "value": 21
+            },
+            {
+              "name": "Mujeres - 16",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "count": 146,
+          "name": "Matriculados - 146",
+          "children": [
+            {
+              "name": "Hombres - 86",
+              "value": 86
+            },
+            {
+              "name": "Mujeres - 60",
+              "value": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 183,
+      "name": "Agronomía y veterinaria",
+      "children": [
+        {
+          "count": 37,
+          "name": "Graduados - 37",
+          "children": [
+            {
+              "name": "Hombres - 21",
+              "value": 21
+            },
+            {
+              "name": "Mujeres - 16",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "count": 146,
+          "name": "Matriculados - 146",
+          "children": [
+            {
+              "name": "Hombres - 86",
+              "value": 86
+            },
+            {
+              "name": "Mujeres - 60",
+              "value": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 183,
+      "name": "Agronomía y veterinaria",
+      "children": [
+        {
+          "count": 37,
+          "name": "Graduados - 37",
+          "children": [
+            {
+              "name": "Hombres - 21",
+              "value": 21
+            },
+            {
+              "name": "Mujeres - 16",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "count": 146,
+          "name": "Matriculados - 146",
+          "children": [
+            {
+              "name": "Hombres - 86",
+              "value": 86
+            },
+            {
+              "name": "Mujeres - 60",
+              "value": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 183,
+      "name": "Agronomía y veterinaria",
+      "children": [
+        {
+          "count": 37,
+          "name": "Graduados - 37",
+          "children": [
+            {
+              "name": "Hombres - 21",
+              "value": 21
+            },
+            {
+              "name": "Mujeres - 16",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "count": 146,
+          "name": "Matriculados - 146",
+          "children": [
+            {
+              "name": "Hombres - 86",
+              "value": 86
+            },
+            {
+              "name": "Mujeres - 60",
+              "value": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 183,
+      "name": "Agronomía y veterinaria",
+      "children": [
+        {
+          "count": 37,
+          "name": "Graduados - 37",
+          "children": [
+            {
+              "name": "Hombres - 21",
+              "value": 21
+            },
+            {
+              "name": "Mujeres - 16",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "count": 146,
+          "name": "Matriculados - 146",
+          "children": [
+            {
+              "name": "Hombres - 86",
+              "value": 86
+            },
+            {
+              "name": "Mujeres - 60",
+              "value": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 183,
+      "name": "Agronomía y veterinaria",
+      "children": [
+        {
+          "count": 37,
+          "name": "Graduados - 37",
+          "children": [
+            {
+              "name": "Hombres - 21",
+              "value": 21
+            },
+            {
+              "name": "Mujeres - 16",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "count": 146,
+          "name": "Matriculados - 146",
+          "children": [
+            {
+              "name": "Hombres - 86",
+              "value": 86
+            },
+            {
+              "name": "Mujeres - 60",
+              "value": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 183,
+      "name": "Agronomía y veterinaria",
+      "children": [
+        {
+          "count": 37,
+          "name": "Graduados - 37",
+          "children": [
+            {
+              "name": "Hombres - 21",
+              "value": 21
+            },
+            {
+              "name": "Mujeres - 16",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "count": 146,
+          "name": "Matriculados - 146",
+          "children": [
+            {
+              "name": "Hombres - 86",
+              "value": 86
+            },
+            {
+              "name": "Mujeres - 60",
+              "value": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 183,
+      "name": "Agronomía y veterinaria",
+      "children": [
+        {
+          "count": 37,
+          "name": "Graduados - 37",
+          "children": [
+            {
+              "name": "Hombres - 21",
+              "value": 21
+            },
+            {
+              "name": "Mujeres - 16",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "count": 146,
+          "name": "Matriculados - 146",
+          "children": [
+            {
+              "name": "Hombres - 86",
+              "value": 86
+            },
+            {
+              "name": "Mujeres - 60",
+              "value": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 183,
+      "name": "Agronomía y veterinaria",
+      "children": [
+        {
+          "count": 37,
+          "name": "Graduados - 37",
+          "children": [
+            {
+              "name": "Hombres - 21",
+              "value": 21
+            },
+            {
+              "name": "Mujeres - 16",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "count": 146,
+          "name": "Matriculados - 146",
+          "children": [
+            {
+              "name": "Hombres - 86",
+              "value": 86
+            },
+            {
+              "name": "Mujeres - 60",
+              "value": 60
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
