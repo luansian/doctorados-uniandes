@@ -1,0 +1,141 @@
+{
+  "name": "Crimes",
+  "children": [
+    {
+      "count": 183,
+      "name": "Agronomía y veterinaria",
+      "children": [
+        {
+          "count": 37,
+          "name": "Graduados - 37",
+          "children": [
+            {
+              "name": "Hombres - 21",
+              "value": 21
+            },
+            {
+              "name": "Mujeres - 16",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "count": 146,
+          "name": "Matriculados - 146",
+          "children": [
+            {
+              "name": "Hombres - 86",
+              "value": 86
+            },
+            {
+              "name": "Mujeres - 60",
+              "value": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 89,
+      "name": "Bellas artes - 89",
+      "children": [
+        {
+          "count": 12,
+          "name": "Graduados - 12",
+          "children": [
+            {
+              "name": "Hombres - 8",
+              "value": 8
+            },
+            {
+              "name": "Mujeres - 4",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "count": 77,
+          "name": "Matriculados - 77",
+          "children": [
+            {
+              "name": "Hombres - 58",
+              "value": 58
+            },
+            {
+              "name": "Mujeres - 19",
+              "value": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 517,
+      "name": "Ciencias de la salud - 517",
+      "children": [
+        {
+          "count": 49,
+          "name": "Graduados - 49",
+          "children": [
+            {
+              "name": "Hombres - 18",
+              "value": 18
+            },
+            {
+              "name": "Mujeres - 31",
+              "value": 31
+            }
+          ]
+        },
+        {
+          "count": 468,
+          "name": "Matriculados - 468",
+          "children": [
+            {
+              "name": "Hombres - 203",
+              "value": 203
+            },
+            {
+              "name": "Mujeres - 265",
+              "value": 265
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "count": 958,
+      "name": "Ciencias de la Educación - 958",
+      "children": [
+        {
+          "count": 87,
+          "name": "Graduados - 87",
+          "children": [
+            {
+              "name": "Hombres - 45",
+              "value": 45
+            },
+            {
+              "name": "Mujeres - 42",
+              "value": 42
+            }
+          ]
+        },
+        {
+          "count": 871,
+          "name": "Matriculados - 871",
+          "children": [
+            {
+              "name": "Hombres - 435",
+              "value": 435
+            },
+            {
+              "name": "Mujeres - 436",
+              "value": 436
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
